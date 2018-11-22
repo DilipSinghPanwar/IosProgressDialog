@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IosProgressDialog</string>
+    <string name="simple_indeterminate">Start Progress Dialog</string>
+</resources>
